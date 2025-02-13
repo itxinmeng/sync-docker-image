@@ -13,3 +13,4 @@
 #apache/dolphinscheduler-alert-server:3.2.0
 #apache/dolphinscheduler-tools:3.2.0
 
+node:18.0.0
