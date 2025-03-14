@@ -14,3 +14,4 @@
 #apache/dolphinscheduler-tools:3.2.0
 
 node:16.0.0
+mysql:5.5.62
