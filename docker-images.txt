@@ -16,3 +16,4 @@
 #node:16.0.0
 #mysql:5.5.62
 mysql:5.5.50
+yiminger/ymicp:yolo8_latest
