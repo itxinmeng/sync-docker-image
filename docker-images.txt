@@ -16,5 +16,5 @@
 #node:16.0.0
 #mysql:5.5.62
 
-yiminger/ymicp:yolo8_latest
+#yiminger/ymicp:yolo8_latest
 weejewel/wg-easy:latest
