@@ -19,4 +19,6 @@
 #yiminger/ymicp:yolo8_latest
 #weejewel/wg-easy:latest 
 
-vaultwarden/server:latest
+#vaultwarden/server:latest
+
+stefanprodan/webftp
