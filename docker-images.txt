@@ -21,4 +21,6 @@
 
 #vaultwarden/server:latest
 
-stefanprodan/webftp
+#stefanprodan/webftp
+
+registry.k8s.io/descheduler/descheduler:v0.34.0
