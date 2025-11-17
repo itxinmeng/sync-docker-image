@@ -13,7 +13,7 @@
 #apache/dolphinscheduler-alert-server:3.2.0
 #apache/dolphinscheduler-tools:3.2.0
 
-#node:16.0.0
+node:14.0.0
 #mysql:5.5.62
 
 #yiminger/ymicp:yolo8_latest
@@ -23,4 +23,4 @@
 
 #stefanprodan/webftp
 
-registry.k8s.io/descheduler/descheduler:v0.34.0
+#registry.k8s.io/descheduler/descheduler:v0.34.0
