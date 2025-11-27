@@ -12,15 +12,11 @@
 #apache/dolphinscheduler-api:3.2.0
 #apache/dolphinscheduler-alert-server:3.2.0
 #apache/dolphinscheduler-tools:3.2.0
-
-node:14.0.0
+#node:14.0.0
 #mysql:5.5.62
-
 #yiminger/ymicp:yolo8_latest
 #weejewel/wg-easy:latest 
-
 #vaultwarden/server:latest
-
 #stefanprodan/webftp
-
 #registry.k8s.io/descheduler/descheduler:v0.34.0
+rustdesk/rustdesk-server
